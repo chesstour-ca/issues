@@ -1,2 +1,2 @@
 # issues
-Report issues of chesstour.ca or request features here.
+Please report issues of chesstour.ca or request features here.
